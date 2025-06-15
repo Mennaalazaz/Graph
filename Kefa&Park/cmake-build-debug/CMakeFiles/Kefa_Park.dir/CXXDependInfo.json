@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/pc/CLionProjects/Graph/Kefa&Park/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/pc/CLionProjects/Graph/Kefa&Park",
+	"dir-top-bld" : "C:/Users/pc/CLionProjects/Graph/Kefa&Park/cmake-build-debug",
+	"dir-top-src" : "C:/Users/pc/CLionProjects/Graph/Kefa&Park",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/pc/CLionProjects/Graph/Kefa&Park/cmake-build-debug/CMakeFiles/Kefa_Park.dir"
+}
